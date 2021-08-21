@@ -1,4 +1,4 @@
-# IPL-Data-Visualization-using-Tableau
+# SUPER-PREDICTOR OF INDIAN PREMIER LEAGUE-IPL
 
 IPL Data Visualisation Challenge from Machinehack.com. I have taken the IPL datset from Machinehack challenge and it has Indian Premier League cricket data from 2008 - 2018. The purpose of this challenge is to analysis and create beautiful visualization using Tableau. The entire visalization done in Tableau. 
 
